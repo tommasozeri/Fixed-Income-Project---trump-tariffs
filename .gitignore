@@ -1,0 +1,11 @@
+# personal FRED API key: never commit it
+data/fred/api_key.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# output of make_tables.py
+tables/
