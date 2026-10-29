@@ -42,7 +42,3 @@ Daily Treasury constant-maturity yields (series `DGS3MO`, `DGS6MO`, `DGS1`, `DGS
 `DGS10`, `DGS20`, `DGS30`), H.15 release of the Board of Governors of the Federal Reserve System, retrieved
 from FRED (Federal Reserve Bank of St. Louis). The event dates come from the course notebook.
 
-## Use of AI tools
-
-The code and the notebook were written with the help of an AI assistant (Claude, Anthropic), as declared in
-the report that goes with this assignment.
